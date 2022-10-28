@@ -98,64 +98,64 @@ export const stats = [
 
 export const footerLinks = [
   {
-    title: "Useful Links",
+    title: "Social Media",
     links: [
       {
-        name: "Content",
-        link: "https://www.hoobank.com/content/",
+        name: "Instagram",
+        link: "https://www.instagram.com/teamgriffinindia/",
       },
       {
-        name: "How it Works",
-        link: "https://www.hoobank.com/how-it-works/",
+        name: "LinkedIn",
+        link: "https://in.linkedin.com/company/team-griffin-india",
       },
       {
-        name: "Create",
-        link: "https://www.hoobank.com/create/",
+        name: "GitHub",
+        link: "https://github.com/GriffinRnD",
       },
       {
-        name: "Explore",
+        name: "Youtube",
         link: "https://www.hoobank.com/explore/",
       },
-      {
-        name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
-      },
+      // {
+      //   name: "Terms & Services",
+      //   link: "https://www.hoobank.com/terms-and-services/",
+      // },
     ],
   },
   {
-    title: "Community",
+    title: "Get in Touch",
     links: [
       {
-        name: "Help Center",
+        name: "Whatsapp",
         link: "https://www.hoobank.com/help-center/",
       },
       {
-        name: "Partners",
+        name: "Email",
         link: "https://www.hoobank.com/partners/",
       },
       {
-        name: "Suggestions",
+        name: "Contact",
         link: "https://www.hoobank.com/suggestions/",
       },
-      {
-        name: "Blog",
-        link: "https://www.hoobank.com/blog/",
-      },
-      {
-        name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
-      },
+      // {
+      //   name: "Blog",
+      //   link: "https://www.hoobank.com/blog/",
+      // },
+      // {
+      //   name: "Newsletters",
+      //   link: "https://www.hoobank.com/newsletters/",
+      // },
     ],
   },
   {
-    title: "Partner",
+    title: "Sponsor",
     links: [
       {
-        name: "Our Partner",
+        name: "3DExperiance",
         link: "https://www.hoobank.com/our-partner/",
       },
       {
-        name: "Become a Partner",
+        name: "Become a Sponsor",
         link: "https://www.hoobank.com/become-a-partner/",
       },
     ],
@@ -166,7 +166,7 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/teamgriffinindia/",
   },
   {
     id: "social-media-2",
@@ -181,7 +181,7 @@ export const socialMedia = [
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://in.linkedin.com/company/team-griffin-india",
   },
 ];
 
