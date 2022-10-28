@@ -7,15 +7,15 @@ export const navLinks = [
   },
   {
     id: "features",
-    title: "Features",
+    title: "Our Why",
   },
   {
     id: "product",
-    title: "Product",
+    title: "Our How",
   },
   {
     id: "clients",
-    title: "Clients",
+    title: "Thoughts",
   },
 ];
 
@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "National Recognition",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Participate in various National Competitions all Year long and make a mark for yourself.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "100% Authentic",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Work on Authentic designs, made from scratch and see your plans come to life.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Become a Pilot",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Participate in various test flights and get trained to become a model plane pilot.",
   },
 ];
 

@@ -24,6 +24,9 @@ import people01 from "./people01.jpg";
 import people02 from "./people02.jpg";
 import people03 from "./people03.jpg";
 import people04 from "./people04.jpg";
+import plane from "./plane.png";
+import sponsor from "./spons.png";
+import Analysis from "./AnsysAirplane.png";
 
 export {
   airbnb,
@@ -52,4 +55,7 @@ export {
   people02,
   people03,
   people04,
+  plane,
+  sponsor,
+  Analysis,
 };
