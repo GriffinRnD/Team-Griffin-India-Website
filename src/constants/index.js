@@ -127,20 +127,20 @@ export const footerLinks = [
     links: [
       {
         name: "Whatsapp",
-        link: "https://www.hoobank.com/help-center/",
+        link: "https://wa.me/917022671930",
       },
       {
         name: "Email",
-        link: "https://www.hoobank.com/partners/",
+        link: "mailto:Vit.griffin@gmail.com",
       },
       {
-        name: "Contact",
-        link: "https://www.hoobank.com/suggestions/",
+        name: "Contact 1",
+        link: "tel:917022671930",
       },
-      // {
-      //   name: "Blog",
-      //   link: "https://www.hoobank.com/blog/",
-      // },
+      {
+        name: "Cantact 2",
+        link: "tel:919075742809",
+      },
       // {
       //   name: "Newsletters",
       //   link: "https://www.hoobank.com/newsletters/",
@@ -152,7 +152,7 @@ export const footerLinks = [
     links: [
       {
         name: "3DExperiance",
-        link: "https://www.hoobank.com/our-partner/",
+        link: "https://www.3ds.com/3dexperience",
       },
       {
         name: "Become a Sponsor",
