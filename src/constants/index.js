@@ -114,7 +114,7 @@ export const footerLinks = [
       },
       {
         name: "Youtube",
-        link: "https://www.hoobank.com/explore/",
+        link: "https://www.youtube.com/channel/UCHnp54DpGt7njYJ88seu8kw",
       },
       // {
       //   name: "Terms & Services",
