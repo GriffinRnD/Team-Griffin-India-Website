@@ -131,7 +131,7 @@ export const footerLinks = [
       },
       {
         name: "Email",
-        link: "mailto:Vit.griffin@gmail.com",
+        link: "mailto:teamgriffin@vit.edu",
       },
       {
         name: "Contact 1",
@@ -156,7 +156,7 @@ export const footerLinks = [
       },
       {
         name: "Become a Sponsor",
-        link: "https://www.hoobank.com/become-a-partner/",
+        link: "mailto:teamgriffin@vit.edu?subject=Proposal To Become A Sponsor",
       },
     ],
   },
