@@ -71,7 +71,7 @@ export const feedback = [
   {
     id: "feedback-4",
     content:
-      "The iPad Guy. ",
+      "Epitome of apeshit lifestyle.",
     name: "Hrutuj",
     title: "Team Manager",
     img: people04,
