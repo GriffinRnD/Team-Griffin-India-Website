@@ -17,7 +17,7 @@ const Billing = () => (
         How We Do <br className="sm:block hidden" />Aeronautical Engineering
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Our Experianced Team has been internally assigned to various 
+        Our Experienced Team has been internally assigned to various 
         domains that work cohesively to make our models come reality.
         All analysis is done in house to prove and validate design
         to be then handed over the the manufacturing and avionics experts 
