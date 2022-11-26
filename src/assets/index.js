@@ -27,6 +27,13 @@ import people04 from "./people04.jpg";
 import plane from "./plane.png";
 import sponsor from "./spons.png";
 import Analysis from "./AnsysAirplane.png";
+import GrifPic1 from "./Pics/GrifPic1.png";
+import GrifPic2 from "./Pics/GrifPic2.png";
+import GrifPic3 from "./Pics/GrifPic3.png";
+import GrifPic4 from "./Pics/GrifPic4.png";
+import GrifPic5 from "./Pics/GrifPic5.png";
+
+
 
 export {
   airbnb,
@@ -58,4 +65,9 @@ export {
   plane,
   sponsor,
   Analysis,
+  GrifPic1,
+  GrifPic2,
+  GrifPic3,
+  GrifPic4,
+  GrifPic5,
 };

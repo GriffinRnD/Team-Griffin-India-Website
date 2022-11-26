@@ -1,4 +1,4 @@
-import { people01, people02, people03, people04, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star,  } from "../assets";
+import { people01, people02, people03, people04, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star,GrifPic1,GrifPic2,GrifPic3,GrifPic4,GrifPic5,  } from "../assets";
 
 export const navLinks = [
   {
@@ -40,6 +40,34 @@ export const features = [
     title: "Become a Pilot",
     content:
       "Participate in various test flights and get trained to become a model plane pilot.",
+  },
+];
+
+export const imgS = [
+  {
+    id: 'world-1',
+    imgUrl: GrifPic1,
+    title: 'Freshers Induction',
+  },
+  {
+    id: 'world-2',
+    imgUrl: GrifPic2,
+    title: 'Social Media Winners',
+  },
+  {
+    id: 'world-3',
+    imgUrl: GrifPic3,
+    title: 'Models at Display',
+  },
+  {
+    id: 'world-4',
+    imgUrl: GrifPic4,
+    title: 'Team 2022',
+  },
+  {
+    id: 'world-5',
+    imgUrl: GrifPic5,
+    title: 'Micro 2022',
   },
 ];
 

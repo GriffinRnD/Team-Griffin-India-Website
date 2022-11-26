@@ -8,6 +8,11 @@ import Stats from "./Stats";
 import Footer from "./Footer";
 import Testimonials from "./Testimonials";
 import Hero from "./Hero";
+import GalleryCards from "./GalleryCards";
+import Gallery from "./Gallery";
+import { TypingText, TitleText } from './CustomTexts';
+
+
 
 export {
   Navbar,
@@ -20,4 +25,8 @@ export {
   Footer,
   Testimonials,
   Hero,
+  TitleText,
+  TypingText,
+  Gallery,
+  GalleryCards
 };
