@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion';
-
+import {logo,  } from "../assets";
 import styles from '../style';
 import { fadeIn } from '../utils/motion';
 
@@ -27,7 +27,7 @@ const GalleryCards = ({ id, imgUrl, title, index, active, handleClick }) => (
             className={`${styles.flexCenter} w-[60px] h-[60px] rounded-[24px] glassmorphism mb-[16px]`}
           >
             <img
-              src="/src/assets/logo.png"
+              src= {logo}
               alt="TGI Logo"
               className=" object-contain"
             />
