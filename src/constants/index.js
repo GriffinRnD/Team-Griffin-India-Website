@@ -91,14 +91,6 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "Team is always first. ",
-    name: "Tanmay Bhimanwar",
-    title: "Team Manager",
-    img: people03,
-  },
-  {
-    id: "feedback-4",
-    content:
       "Epitome of apeshit lifestyle.",
     name: "Hrutuj",
     title: "Team Manager",
@@ -110,7 +102,7 @@ export const stats = [
   {
     id: "stats-1",
     title: "Number of Active Members",
-    value: "28+",
+    value: "58+",
   },
   {
     id: "stats-2",
@@ -120,7 +112,7 @@ export const stats = [
   {
     id: "stats-3",
     title: "Domains",
-    value: "5+",
+    value: "8+",
   },
 ];
 
@@ -166,8 +158,12 @@ export const footerLinks = [
         link: "tel:917022671930",
       },
       {
-        name: "Cantact 2",
-        link: "tel:919075742809",
+        name: "Contact 2",
+        link: "tel:918956909950",
+      },
+      {
+        name: "Contact 3",
+        link: "tel:918806076149",
       },
       // {
       //   name: "Newsletters",

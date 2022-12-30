@@ -9,15 +9,8 @@ const Hero = () => {
         <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
           <img src={discount} alt="discount" className="w-[32px] h-[32px]" />
           <p className={`${styles.paragraph} ml-2`}>
-            <span className="text-white">30%</span> Discount For{" "}
-            <span className="text-white">1 Year</span> Club Membership
-          </p>
-        </div>
-        <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
-          <img src={discount} alt="discount" className="w-[32px] h-[32px]" />
-          <p className={`${styles.paragraph} ml-2`}>
-            <span className="text-white">25%</span> Discount For{" "}
-            <span className="text-white">Semester</span> Club Membership
+             We Are {" "}
+            <span className="text-white">Recruiting!!!</span> 
           </p>
         </div>
 
