@@ -91,7 +91,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "Epitome of apeshit lifestyle.",
+      "We Bleed Cyno.",
     name: "Hrutuj",
     title: "Team Manager",
     img: people04,
