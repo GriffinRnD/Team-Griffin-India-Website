@@ -31,7 +31,7 @@ const Business = () =>  (
         your model to reach the skies.
       </p>
 
-      <Button styles={`mt-10`} />
+      {/* <Button styles={`mt-10`} /> */}
     </div>
 
     <div className={`${layout.sectionImg} flex-col`}>

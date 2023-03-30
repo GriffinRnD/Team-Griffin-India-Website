@@ -14,7 +14,7 @@ const CardDeal = () => (
         truely enable us to push towards our ambitious goals.
       </p>
 
-      <Button styles={`mt-10`} />
+      {/* <Button styles={`mt-10`} /> */}
     </div>
 
     <div className={layout.sectionImg}>
