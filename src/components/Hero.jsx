@@ -9,8 +9,8 @@ const Hero = () => {
         <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
           {/* <img src={discount} alt="discount" className="w-[32px] h-[32px]" /> */}
           <p className={`${styles.paragraph} ml-2`}>
-             We Are {" "}
-            <span className="text-white">Team Griffin India</span> 
+            <span className="text-white">Micro AIR 3 </span> 
+             in SAEISS 2023 {" "}
           </p>
         </div>
 

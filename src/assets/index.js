@@ -26,6 +26,10 @@ import people03 from "./people03.jpg";
 import people04 from "./people04.jpg";
 import plane from "./plane.png";
 import sponsor from "./spons.png";
+import sponsor1 from "./SolidWorks-Logo.png";
+import sponsor2 from "./bhansali-removebg-preview.png";
+import sponsor3 from "./experiancelab.jpeg";
+import sponsor4 from "./Kotibhaskar.jpeg";
 import Analysis from "./AnsysAirplane.png";
 import GrifPic1 from "./Pics/GrifPic1.png";
 import GrifPic2 from "./Pics/GrifPic2.png";
@@ -64,6 +68,10 @@ export {
   people04,
   plane,
   sponsor,
+  sponsor1,
+  sponsor2,
+  sponsor3,
+  sponsor4,
   Analysis,
   GrifPic1,
   GrifPic2,

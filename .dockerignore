@@ -1,0 +1,7 @@
+#files to ignore in the image 
+node_modules
+npm-debug.log
+build
+.git
+*.md
+.gitignore

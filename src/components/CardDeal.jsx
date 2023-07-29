@@ -1,4 +1,4 @@
-import { sponsor } from "../assets";
+import { sponsor , sponsor1 , sponsor2 , sponsor3, sponsor4} from "../assets";
 import styles, { layout } from "../style";
 import Button from "./Button";
 
@@ -18,7 +18,19 @@ const CardDeal = () => (
     </div>
 
     <div className={layout.sectionImg}>
-      <img src={sponsor} alt="billing" className="w-[50%] h-[90%]" />
+      <img src={sponsor} alt="billing" className="w-[50%] h-[20%]" />
+    </div>
+    <div className={layout.sectionImg}>
+      <img src={sponsor1} alt="billing" className="w-[50%] h-[18%]" />
+    </div>
+    <div className={layout.sectionImg}>
+      <img src={sponsor2} alt="billing" className="w-[50%] h-[20%]" />
+    </div>
+    <div className={layout.sectionImg}>
+      <img src={sponsor3} alt="billing" className="w-[50%] h-[10%]" />
+    </div>
+    <div className={layout.sectionImg}>
+      <img src={sponsor4} alt="billing" className="w-[50%] h-[20%]" />
     </div>
   </section>
 );
