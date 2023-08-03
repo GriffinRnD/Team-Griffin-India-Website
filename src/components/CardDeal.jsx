@@ -18,9 +18,6 @@ const CardDeal = () => (
     </div>
 
     <div className={layout.sectionImg}>
-      <img src={sponsor} alt="billing" className="w-[50%] h-[20%]" />
-    </div>
-    <div className={layout.sectionImg}>
       <img src={sponsor1} alt="billing" className="w-[50%] h-[18%]" />
     </div>
     <div className={layout.sectionImg}>
